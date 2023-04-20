@@ -7,12 +7,15 @@
 
 # José Carlos
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
+Minha paixão por análise de dados começou durante meus estudos em gestão de negócios, onde aprendi a importância da tomada de decisões baseada em dados. Desde então, tenho me dedicado a aprimorar minhas habilidades em machine learning e deep learning, a fim de ajudar meus clientes a extrair insights valiosos de seus dados e tomar decisões informadas e estratégicas.
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Com minha experiência em gestão de projetos, sou capaz de liderar equipes multidisciplinares e garantir que todos os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de comunicar insights complexos de maneira clara e concisa, garantindo que meus clientes compreendam completamente o valor de seus dados e as implicações de suas decisões.
+Minha expertise em machine learning e deep learning me permite criar modelos precisos de análise preditiva que ajudam meus clientes a prever tendências e identificar oportunidades de negócios. Utilizo técnicas avançadas de análise de dados para extrair informações valiosas de grandes conjuntos de dados, e estou sempre atualizado com as últimas tendências e tecnologias de análise de dados.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Como um profissional de análise de dados, meu objetivo é ajudar meus clientes a alcançar o sucesso em seus negócios, fornecendo insights valiosos e estratégicos que os ajudem a tomar decisões informadas e orientadas por dados. Estou sempre pronto para enfrentar novos desafios e desenvolver soluções personalizadas que atendam às necessidades exclusivas de meus clientes.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Background in:** Python, Machine Learning, Probabilidade e estatística.
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
