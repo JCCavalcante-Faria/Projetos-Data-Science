@@ -5,8 +5,8 @@
   <img src="banner.png" >
 </p>
 
-# José Carlos
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# José Carlos Cavalcante
+<sub>** Data Scientist**</sub>
 Minha paixão por análise de dados começou durante meus estudos em gestão de negócios, onde aprendi a importância da tomada de decisões baseada em dados. Desde então, tenho me dedicado a aprimorar minhas habilidades em machine learning e deep learning, a fim de ajudar meus clientes a extrair insights valiosos de seus dados e tomar decisões informadas e estratégicas.
 
 Com minha experiência em gestão de projetos, sou capaz de liderar equipes multidisciplinares e garantir que todos os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de comunicar insights complexos de maneira clara e concisa, garantindo que meus clientes compreendam completamente o valor de seus dados e as implicações de suas decisões.
