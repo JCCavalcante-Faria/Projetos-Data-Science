@@ -1,12 +1,12 @@
 # Projetos-Data-Science
 [![author](https://img.shields.io/badge/author-JCCavalcante-red.svg)](https://www.linkedin.com/in/jose-carlos-cavalcante) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-<p align="center">
+<p align="https://github.com/JCCavalcante-Faria/Projetos-Data-Science/commit/591f90a786619cf74062c20b34ab0bec12cd7848">
   <img src="banner.png" >
 </p>
 
 # José Carlos Cavalcante
-<sub>** Data Scientist**</sub>
+<sub># Data Scientist#</sub>
 Minha paixão por análise de dados começou durante meus estudos em gestão de negócios, onde aprendi a importância da tomada de decisões baseada em dados. Desde então, tenho me dedicado a aprimorar minhas habilidades em machine learning e deep learning, a fim de ajudar meus clientes a extrair insights valiosos de seus dados e tomar decisões informadas e estratégicas.
 
 Com minha experiência em gestão de projetos, sou capaz de liderar equipes multidisciplinares e garantir que todos os projetos sejam entregues no prazo e dentro do orçamento. Além disso, sou capaz de comunicar insights complexos de maneira clara e concisa, garantindo que meus clientes compreendam completamente o valor de seus dados e as implicações de suas decisões.
