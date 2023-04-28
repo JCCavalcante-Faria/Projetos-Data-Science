@@ -1,5 +1,5 @@
 # Projetos-Data-Science
-[![author](https://img.shields.io/badge/author-JCCavalcante-red.svg)](https://www.linkedin.com/in/jose-carlos-cavalcante) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-JCCavalcante-red.svg)](https://www.linkedin.com/in/josé-carlos-cavalcante/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="https://github.com/JCCavalcante-Faria/Projetos-Data-Science/commit/591f90a786619cf74062c20b34ab0bec12cd7848">
   <img src="banner.png" >
@@ -19,7 +19,7 @@ Como um profissional de análise de dados, meu objetivo é ajudar meus clientes 
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/jose-carlos-cavalcante)
+* [LinkedIn](https://www.linkedin.com/in/josé-carlos-cavalcante/)
 * [Medium](https://www.medium.com)
 
 
