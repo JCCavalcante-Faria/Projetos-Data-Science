@@ -24,7 +24,7 @@ Como um profissional de análise de dados, meu objetivo é ajudar meus clientes 
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja meus projetos:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
