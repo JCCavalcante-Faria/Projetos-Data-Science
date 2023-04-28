@@ -19,7 +19,7 @@ Como um profissional de análise de dados, meu objetivo é ajudar meus clientes 
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/jose-carlos-cavalcante)
 * [Medium](https://www.medium.com)
 
 
