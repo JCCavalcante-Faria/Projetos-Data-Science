@@ -26,6 +26,6 @@ Como um profissional de análise de dados, meu objetivo é ajudar meus clientes 
 ## Projetos:
 Veja meus projetos:
 
-*[Analisando dados airbnb, Toronto- Canada] (https://github.com/JCCavalcante-Faria/Projetos-Data-Science/blob/main/%5BToronto%2C_Canada_Analisando_os_Dados_do_Airbnb.ipynb)
+*[Analisando dados airbnb, Toronto- Canada] https://bit.ly/3HO1zwH
 
 
