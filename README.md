@@ -26,6 +26,6 @@ Como um profissional de análise de dados, meu objetivo é ajudar meus clientes 
 ## Projetos:
 Veja meus projetos:
 
-*[Analisando dados airbnb, Toronto- Canada] https://bit.ly/3HO1zwH
+*[Analisando dados airbnb, Toronto- Canada] https://https://bit.ly/3ph0BCS
 
 
